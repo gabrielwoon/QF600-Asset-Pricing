@@ -1,5 +1,5 @@
 # QF600-Asset-Pricing
-QF600 Asset Pricing AY2021/2022
+SMU QF600 Asset Pricing AY2021/2022
 
 [QF600 Project Details.pdf](https://github.com/gabrielwoon/QF600-Asset-Pricing/files/7740743/QF600.Project.Details.pdf)
 
